@@ -27,7 +27,7 @@ A sample dataset of 200 interns covering department, university, work mode, prog
 
 - `internship_completion_data.xlsx` — cleaned dataset, PivotTables, and written insights
 - `internship_dashboard.pbix` — Power BI dashboard file
-- Dashboard screenshots
+
 
 ## Author
 
